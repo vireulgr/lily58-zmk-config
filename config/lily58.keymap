@@ -63,7 +63,7 @@
 &trans          &trans  &trans  &trans  &trans  &trans                    &kp N6       &kp N7        &kp N8        &kp N9        &kp N0        &kp PG_UP
 &trans          &trans  &trans  &trans  &trans  &trans                    &trans       &kp LEFT      &kp DOWN      &kp UP        &kp RIGHT     &kp PAGE_DOWN
 &trans          &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp KP_PLUS  &kp MINUS     &kp EQUAL     &kp LBKT      &kp RBKT      &kp BSLH
-                                &trans  &trans  &trans  &trans    &trans  &trans       &trans        &trans
+                                &trans  &trans  &trans  &trans    &trans  &trans       &kp DELETE    &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
